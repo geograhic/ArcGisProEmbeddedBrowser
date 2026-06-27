@@ -15,9 +15,7 @@
 
 | 通道 | 地址 |
 |------|------|
-| **最新版** | [releases/current/GIS_Aide_v2.8.0.esriAddInX](releases/current/GIS_Aide_v2.8.0.esriAddInX) |
-| **历史版本** | [releases/history/plugins/](releases/history/plugins/) |
-| **微信公众号** | 向后台发消息"**软件**"，进入"软件开发系列 > ArcGIS Pro内嵌浏览器"文件夹 |
+| **微信公众号** | 前往“[生活地理通](https://mp.weixin.qq.com/s/LMvORo1VQg8OcThtXCoeSw)”，向后台发消息"**软件**"，进入"软件开发系列 > ArcGIS Pro内嵌浏览器"文件夹，可下载到插件及其源码源代码 |
 
 > 安装方式：下载 `.esriAddInX` 后双击，跟随安装向导完成即可。安装后**重启 ArcGIS Pro**，在功能区即可看到"GIS Aide"选项卡。
 
@@ -76,21 +74,6 @@
 - DPAPI 加密存储，默认遮蔽显示，5 秒明文查看
 - 一键"设为默认"即时切换
 - 批量导入/导出 JSON，支持右键批量删除、批量导出
-
----
-
-## 📁 项目结构
-
-```
-src/                         源代码
-build/                       打包暂存
-releases/current/            当前最新版插件
-releases/history/plugins/    历史稳定版本
-releases/source_snapshots/   源码快照
-docs/                        项目文档
-tools/                       打包脚本
-PROJECT_MEMORY.md            项目记忆（AI Agent 续接）
-```
 
 ---
 
