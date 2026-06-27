@@ -87,7 +87,6 @@ rm -r -Force src/ArcGisProEmbeddedBrowser/obj
 dotnet build ArcGisProEmbeddedBrowser.sln -c Release /p:SkipArcGISAddInTargets=true
 
 # 打包 .esriAddInX
-.\tools\package-release.ps1 -Version 2.8.0
 ```
 
 ### 个性化二次开发
@@ -96,7 +95,7 @@ dotnet build ArcGisProEmbeddedBrowser.sln -c Release /p:SkipArcGISAddInTargets=t
 
 1. 将源码下载到本地
 2. 用 AI IDE 打开项目目录
-3. 告诉 AI "接管此项目，先阅读 PROJECT_MEMORY.md"
+3. 告诉 AI "接管此项目"
 4. 清晰描述需求，AI 即可接手开发
 
 > 经验分享：① 先问 AI"能做吗"再动手；② 如果担心 AI 盲猜，在指令末尾加一句"还有什么需要说明清楚的信息请及时问我，不要擅作主张"；③ 提供成熟的开源参考案例减少漏洞；④ 引导 AI 维护项目记忆文档，确保后续开发无缝衔接。
