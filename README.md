@@ -1,6 +1,6 @@
 # GIS Aide — 让 ArcGIS Pro 拥有浏览器的力量
 
-[![Version](https://img.shields.io/badge/version-2.8.0-blue)](releases/current)
+[![Version](https://img.shields.io/badge/version-2.8.0-blue)](https://mp.weixin.qq.com/s/LMvORo1VQg8OcThtXCoeSw)
 [![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-3.6+-orange)](https://www.esri.com/en-us/arcgis/products/arcgis-pro)
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
