@@ -122,8 +122,6 @@ dotnet build ArcGisProEmbeddedBrowser.sln -c Release /p:SkipArcGISAddInTargets=t
 | v2.7.x | 2026-06 | 插件开发工作台、地址定位候选检索、AI 对话持久化 |
 | v2.6.x | 2026-06 | 自定义工具系统、Agent 模式、地址定位、Markdown 渲染 |
 
-完整更新日志见 [docs/RELEASE_NOTES.md](docs/RELEASE_NOTES.md)。
-
 ---
 
 ## 📄 许可证
